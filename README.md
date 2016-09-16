@@ -1,1 +1,1 @@
-# Data-Mining
+This contains projects done on data mining.
